@@ -112,9 +112,6 @@ static void UNITY_INTERFACE_API OnRenderEventScreenPointPixel(int eventID)
         return;
     }
     int result = GetScreenPixels(screenPointPixelData, _x, _y, _width, _height);
-
-    //std::string log_msg = "Cobol " + std::to_string(result);
-    //Debug::Log(log_msg, Color::Green);
 }
 
 // Freely defined function to pass a callback to plugin-specific scripts
