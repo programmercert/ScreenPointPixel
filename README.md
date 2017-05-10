@@ -30,3 +30,8 @@ TEST:
 Create a small simple RawImage component and position it to the top-right of the screen. 
 Drag that RawImage to the rawImageColor slot from the script in ScreenPointPixel/Csharp/ScreenPointPixel.cs. When you click anywhere on the screen, 
 the pixel color of that screen point should shown on that rawImageColor RawImage.
+
+
+OUTPUT:
+
+![image](https://github.com/programmercert/ScreenPointPixel/blob/master/OUT_PUT.gif)
