@@ -9,7 +9,7 @@ https://github.com/programmercert/ScreenPointPixel/tree/master/AndroidProject
 This 
 
 When compiled/built from Android Studio, it should give you two 
-folders (armeabi-v7a and x86 at ```<ProjectDirectory>\app\build\intermediates\cmake\release\obj``` directory. They should both contain the shared *.so library. If you can't compile this for Android Studio then use the copy of Android Studio project I made for this here.
+folders (armeabi-v7a and x86 at ```<ProjectDirectory>\app\build\intermediates\cmake\release\obj``` directory. They should both contain the shared *.so library. 
 
 Place both folders in your Unity project folders at ```Assets\Plugins\Android\libs```.
 
